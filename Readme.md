@@ -17,11 +17,11 @@ All data is stored in runtime (no database required).
 
 ## Features
 
-### 🔐 Admin Login
+### Admin Login
 - Secure login using the password: **vtop**
 - Provides a password hint on incorrect attempts.
 
-### 📝 Student Data Stored
+### Student Data Stored
 Each student record stores:
 - Name  
 - VITYARTHI lecture videos  
