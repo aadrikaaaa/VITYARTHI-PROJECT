@@ -88,7 +88,7 @@ cd grading-app
 
 ### 2. Run the program
 ```bash
-python3 finalmain.py
+python3 og.py
 ```
 
 ## Dependencies
