@@ -83,7 +83,7 @@ Frozen students **cannot be edited** until unfrozen.
 ### 1. Clone or download the script
 ```bash
 git clone <your-repo-url>
-cd grading-app
+cd VITYARTHI-PROJECT
 ```
 
 ### 2. Run the program
